@@ -25,14 +25,7 @@ knitr::include_graphics("img/Diagrama_multivariado.png")
 
 </br></br>
 
-Los métodos estadísticos multivariantes se pueden dividir en tres grandes categorías: métodos de dependencia, métodos de independencia y métodos estructurales.
-
-</br>
-
-* Los métodos de dependencia se utilizan para analizar la relación entre dos o más variables.
-* Los métodos de independencia se utilizan para analizar la relación entre dos o más variables, pero sin asumir que están relacionadas.
-* Los métodos estructurales se utilizan para analizar la relación entre dos o más variables, y se supone que están relacionadas.
-
+Los métodos estadísticos multivariantes se pueden dividir en métodos de dependencia, métodos de independencia.
 </br>
 
 Cada categoría de métodos estadísticos tiene su propio conjunto de técnicas. Algunas de las técnicas más comunes incluyen:
