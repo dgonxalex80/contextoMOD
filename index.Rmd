@@ -1,0 +1,74 @@
+---
+title: <span style="color:#034a94"> **Contexto**</span>
+output:
+html_document:
+css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, comment = NA)
+library(summarytools)
+
+
+c1 ="#FF7F00"  # naranja - color primario 
+c2 ="#034A94"  # azul oscuro - color secundario
+c3 ="#0EB0C6"  # azul claro - color terciario
+c4 ="#686868"  # gris - color texto
+```
+
+</br></br>
+
+
+```{r, echo=FALSE, out.width="90%", fig.align = "center"}
+knitr::include_graphics("img/Diagrama_multivariado.png")
+```
+
+</br></br>
+
+Los métodos estadísticos multivariantes se pueden dividir en tres grandes categorías: métodos de dependencia, métodos de independencia y métodos estructurales.
+
+</br>
+
+* Los métodos de dependencia se utilizan para analizar la relación entre dos o más variables.
+* Los métodos de independencia se utilizan para analizar la relación entre dos o más variables, pero sin asumir que están relacionadas.
+* Los métodos estructurales se utilizan para analizar la relación entre dos o más variables, y se supone que están relacionadas.
+
+</br>
+
+Cada categoría de métodos estadísticos tiene su propio conjunto de técnicas. Algunas de las técnicas más comunes incluyen:
+
+</br>
+
+* Análisis de regresión
+* Análisis de supervivencia
+* Análisis de la varianza
+* Correlación canónica
+* Análisis discriminante
+* Modelos de regresión logística
+* Análisis conjoint
+* Análisis factorial
+* Análisis de componentes principales
+* Escalas multidimensionales
+* Análisis de clúster
+* Análisis de correspondencias
+* Modelos log-lineales
+* Modelos estructurales
+
+</br>
+
+Estas técnicas se pueden utilizar para analizar una amplia variedad de datos, incluyendo datos de encuestas, datos de experimentos y datos de observación. Pueden utilizarse para responder a una amplia variedad de preguntas, incluyendo:
+
+</br>
+
+* ¿Existe una relación entre dos o más variables?
+* ¿Cómo se relaciona una variable con otra variable?
+* ¿Qué factores influyen en una variable?
+* ¿Cómo se puede predecir una variable a partir de otras variables?
+
+</br>
+
+Los métodos estadísticos son una herramienta poderosa que puede ser utilizada para analizar datos y extraer información de ellos. Pueden utilizarse para responder a una amplia variedad de preguntas y para tomar decisiones informadas.
+
+</br></br>
+
+En esta unidad se presentarán las principales caracteristicas de los análisis de regresiçon, regresión logística, analisis de compoentes principales, análisis de  conglomerados o cluster y el análisis de correspondencia.
