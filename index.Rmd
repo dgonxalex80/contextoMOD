@@ -64,4 +64,4 @@ Los métodos estadísticos son una herramienta poderosa que puede ser utilizada 
 
 </br></br>
 
-En esta unidad se presentarán las principales caracteristicas de los análisis de regresiçon, regresión logística, analisis de compoentes principales, análisis de  conglomerados o cluster y el análisis de correspondencia.
+En esta unidad se presentarán las principales características de los análisis de regresión, regresión logística, análisis de componentes principales, análisis de  conglomerados o cluster y el análisis de correspondencia.
