@@ -19,6 +19,13 @@ c4 ="#686868"  # gris - color texto
 </br></br>
 
 
+</br></br>
+
+Los métodos estadísticos multivariantes se pueden dividir en métodos de dependencia y métodos de independencia.
+</br>
+
+
+
 ```{r, echo=FALSE, out.width="90%", fig.align = "center"}
 knitr::include_graphics("img/Diagrama2.png")
 ```
@@ -29,10 +36,6 @@ knitr::include_graphics("img/Diagrama2.png")
 Tomado de : Hair - Anderson - Tatham - Blacc (1999)
 </sub>
 </center>
-</br></br>
-
-Los métodos estadísticos multivariantes se pueden dividir en métodos de dependencia, métodos de independencia.
-</br>
 
 Cada categoría de métodos estadísticos tiene su propio conjunto de técnicas. Algunas de las técnicas más comunes incluyen:
 
@@ -68,6 +71,8 @@ Estas técnicas se pueden utilizar para analizar una amplia variedad de datos, i
 
 Los métodos estadísticos son una herramienta poderosa que puede ser utilizada para analizar datos y extraer información de ellos. Pueden utilizarse para responder a una amplia variedad de preguntas y para tomar decisiones informadas.
 
-</br></br>
+</br>
 
 En esta unidad se presentarán las principales características de los análisis de regresión, regresión logística, análisis de componentes principales, análisis de  conglomerados o cluster y el análisis de correspondencia.
+
+
