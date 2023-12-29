@@ -19,8 +19,6 @@ c4 ="#686868"  # gris - color texto
 </br></br>
 
 
-</br></br>
-
 Los métodos estadísticos multivariantes se pueden dividir en métodos de dependencia y métodos de independencia.
 </br>
 
@@ -41,18 +39,18 @@ Cada categoría de métodos estadísticos tiene su propio conjunto de técnicas.
 
 </br>
 
-* **Análisis de regresión**
+* <span style="color:#034a94">**Análisis de regresión**</span>
 * Análisis de supervivencia
 * Análisis de la varianza
 * Correlación canónica
 * Análisis discriminante
-* **Modelos de regresión logística**
-* Análisis conjoint
+* <span style="color:#034a94">**Modelos de regresión logística**</span>
+* Análisis conjunto
 * Análisis factorial
-* **Análisis de componentes principales**
+* <span style="color:#034a94">**Análisis de componentes principales**</span>
 * Escalas multidimensionales
-* **Análisis de clúster**
-* **Análisis de correspondencias**
+* <span style="color:#034a94">**Análisis de clúster**</span>
+* <span style="color:#034a94">**Análisis de correspondencias**</span>
 * Modelos log-lineales
 * Modelos estructurales
 
